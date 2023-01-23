@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b98e6e-0104-4645-9cc0-c2de059bb071" name="Changes" comment="create func">
+    <list default="true" id="41b98e6e-0104-4645-9cc0-c2de059bb071" name="Changes" comment="добавлена функция заглавной первой буквы">
       <change beforePath="$PROJECT_DIR$/str_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/str_func.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <updated>1674382224935</updated>
       <workItem from="1674382230010" duration="303000" />
       <workItem from="1674497833704" duration="3143000" />
-      <workItem from="1674501649094" duration="1569000" />
+      <workItem from="1674501649094" duration="847000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1674499350607</created>
@@ -74,14 +74,7 @@
       <option name="project" value="LOCAL" />
       <updated>1674499350607</updated>
     </task>
-    <task id="LOCAL-00002" summary="create func">
-      <created>1674507866069</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674507866069</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +103,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="create func" />
-    <option name="LAST_COMMIT_MESSAGE" value="create func" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>

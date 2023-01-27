@@ -4,81 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b98e6e-0104-4645-9cc0-c2de059bb071" name="Changes" comment="добавлена функция заглавной первой буквы">
-      <change beforePath="$PROJECT_DIR$/str_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/str_func.py" afterDir="false" />
-    </list>
+    <list default="true" id="41b98e6e-0104-4645-9cc0-c2de059bb071" name="Changes" comment="первый коммит для ошибки" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/main" />
-  </component>
-  <component name="Git.Rebase.Settings">
-    <option name="NEW_BASE" value="feauter" />
-  </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Karapuchlo &lt;123234471+karapuchlo@users.noreply.github.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="feauter" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2Kg33ye1MLXJABDBWTiQNUG556o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/hp/PycharmProjects/DZ-vetki",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="41b98e6e-0104-4645-9cc0-c2de059bb071" name="Changes" comment="" />
-      <created>1674382224935</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1674382224935</updated>
-      <workItem from="1674382230010" duration="303000" />
-      <workItem from="1674497833704" duration="3143000" />
-      <workItem from="1674501649094" duration="847000" />
-    </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <created>1674499350607</created>
+    <task id="LOCAL-00001" summary="первый коммит для ошибки">
+      <created>1674815685373</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1674499350607</updated>
+      <updated>1674815685373</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -88,21 +47,11 @@
             <State />
           </value>
         </entry>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="3a5dc489-f774-40f2-98e7-9cd12f0c2ceb" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="первый коммит для ошибки" />
+    <option name="LAST_COMMIT_MESSAGE" value="первый коммит для ошибки" />
   </component>
 </project>
